@@ -2,7 +2,7 @@
 
 参见我们的代码 [repo](https://github.com/MoonOutCloudBack/SEUCSE_OScode) 吧
 
-
+以及 [答辩经验帖](https://www.cnblogs.com/moonout/p/16998327.html)
 
 ---
 
